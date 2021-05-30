@@ -1,3 +1,4 @@
+@echo on
 emoji=( ♈️ ♉ ♊️  ♋️  ♌️ 	♍️ 	♎️  ♏️ 	♐️  ♑️ ♒️ 	♓️ 	⛎  🔯 )
 git add -A
 echo "Add Finish"
